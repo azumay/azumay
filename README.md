@@ -10,10 +10,7 @@ Estudiante de grado superior en Desarrollo de aplicaciones web en el centro Thos
 
       
 
-
-      
-      
-
+## Knowledge ✨
 
 <div align="left">
     <p align="left">
@@ -28,6 +25,12 @@ Estudiante de grado superior en Desarrollo de aplicaciones web en el centro Thos
         </a>
     </p>
 </div>
+
+## How to contact me 📫
+
+<a href="mailto:xyamuza@gmail.com"><img src="https://img.icons8.com/color/35/000000/gmail.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/sara-rd" target="_blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.instagram.com/azumay404/" target="_blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 
 
 <!--
