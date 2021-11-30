@@ -1,6 +1,7 @@
 
 # Hi! I'm Xavi Yamuza 👋
 <img src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif"  height="300" />
+
 ## About Me 👨‍💻
 Estudiante de grado superior en Desarrollo de aplicaciones web en el centro Thos i Codina de Mataró (Barcelona)📍
 
