@@ -6,7 +6,7 @@ Estudiante de grado superior en Desarrollo de aplicaciones web en el centro Thos
 
 
 ## My GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=azumay&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azumay&show_icons=true&theme=tokyonight)
 
       
 
@@ -24,6 +24,10 @@ Estudiante de grado superior en Desarrollo de aplicaciones web en el centro Thos
         <img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/>
     </p>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azumay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## How to contact me 📫
 
