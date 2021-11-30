@@ -26,7 +26,7 @@ Estudiante de grado superior en Desarrollo de aplicaciones web en el centro Thos
     </p>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azumay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azumay&layout=compact)](https://github.com/azumay?tab=repositories)
 
 
 
