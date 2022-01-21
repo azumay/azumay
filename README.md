@@ -2,15 +2,6 @@
 # Hi! I'm Xavi Yamuza 👋
 <img src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif"  height="300" />
 
-## About Me 👨‍💻
-Estudiante de grado superior en Desarrollo de aplicaciones web en el centro Thos i Codina de Mataró (Barcelona)📍
-
-
-## My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azumay&show_icons=true&theme=tokyonight)
-
-      
-
 ## Knowledge ✨
 
 <div align="left">
@@ -27,7 +18,12 @@ Estudiante de grado superior en Desarrollo de aplicaciones web en el centro Thos
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azumay&layout=compact)](https://github.com/azumay?tab=repositories)
+## About Me 👨‍💻
+Estudiante de grado superior en Desarrollo de aplicaciones web en el centro Thos i Codina de Mataró (Barcelona)📍
 
+
+## My GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azumay&show_icons=true&theme=tokyonight)
 
 
 ## How to contact me 📫
