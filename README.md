@@ -14,8 +14,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
         <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
-        <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v2.png"/>
-        <img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/>
+        <img src="https://spring-petclinic.github.io/images/logo-spring.png" alt="spring" width="40" height="40" />
+        <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v2.png" alt="java" width="40" height="40"/>
+        <img src="https://img.icons8.com/color/40/000000/mysql-logo.png" alt="mysql" width="40" height="40" />
     </p>
 </div>
 
