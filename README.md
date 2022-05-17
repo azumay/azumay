@@ -17,9 +17,12 @@
         <img src="https://spring-petclinic.github.io/images/logo-spring.png" alt="spring" width="40" height="40" />
         <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v2.png" alt="java" width="40" height="40"/>
         <img src="https://img.icons8.com/color/40/000000/mysql-logo.png" alt="mysql" width="40" height="40" />
-        <img src="https://img.icons8.com/color/344/docker.png" alt="docker" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
         <img src="https://img.icons8.com/color/344/postgreesql.png" alt="postgreesql" width="40" height="40" />
         <img src="https://img.icons8.com/color/344/linux--v1.png" alt="linux" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" alt="doctrine" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="40" height="40" />
         <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="mongoDB" width="40" height="40" />
 
 </div>
