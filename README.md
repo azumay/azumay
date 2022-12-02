@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azumay&layout=compact)](https://github.com/azumay?tab=repositories)
 ## About Me 👨‍💻
-Estudiante de grado superior en Desarrollo de aplicaciones web en el centro Thos i Codina de Mataró (Barcelona)📍
+Fll stack developer (Barcelona)📍
 
 
 ## My GitHub Stats
